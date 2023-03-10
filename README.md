@@ -1,7 +1,7 @@
 # Portfolio 
 
 ## **About me**
-A beginner, communicative and hardworking tester with high ambitions for further development in the field of testing. Due to carrer change, I'm looking for opportunities to gain experience. I'm currently undergoing certification ISTQB Foundation Level. I'm conscientiously striving to expand my professional and linguistic competences.
+A beginner, communicative and hardworking tester with high ambitions for further development in the field of testing. Due to career change, I'm looking for opportunities to gain experience. I'm currently undergoing certification ISTQB Foundation Level and starting a JavaScript course. I'm conscientiously striving to expand my professional and linguistic competences.
 
 __________________________________________
 
@@ -31,6 +31,7 @@ __________________________________________
 * JIRA / TRELLO
 * HTML / CSS
 * CMD.EXE
+* VS Code
 
 __________________________________________
  
