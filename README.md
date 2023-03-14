@@ -33,6 +33,7 @@ __________________________________________
 * [QA Engineer](https://github.com/elizaholeczko/certificates/blob/main/QA%20Engineer.pdf) - GoIT school
 
 During the course I had the opportunity to learn topics such as:
+
 **testing basics, test documentation, waterfall, V-model, scrum, agile, kanban, kinds and types of tests, test management, status codes, thick and thin client, API, SQL commands, CI/CD, GIT, HTML and CSS basics , AJAX, XML, JSON, Rest and Soap, mobile testing and basic commands CMD**
 
 * [HTML/CSS](https://github.com/elizaholeczko/certificates/blob/main/HTML.png) - seven-day marathon GoIT
