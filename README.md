@@ -1,30 +1,9 @@
 # Portfolio 
 
 ## **About me**
-A beginner, communicative and hardworking tester with high ambitions for further development in the field of testing. Due to career change, I'm looking for opportunities to gain experience. I'm currently undergoing certification ISTQB Foundation Level and starting a JavaScript course. I'm conscientiously striving to expand my professional and linguistic competences.
-
-__________________________________________
-
-### **Skills**
-###### (beginner level)
-
-* knowledge of ISTQB;
-* Rest API testing;
-* website testing;
-* creating test cases and test reports;
-* bug reporting;
-
-__________________________________________
-
-### **Tools/Technologies**
-###### (beginner level)
-
-* SQL
-* Postman
-* TestRail
-* GITHUB
-* TRELLO
-* VS Code (HTML/CSS)
+I have been interested in the world of computers since I was a child. I graduated from a technical school in the profession of Digital Graphic Processes Technician, I received a diploma which confirms my skills. At school, I created graphics, edited films, took photos and processed them in programs such as Adobe Xd, Photoshop, Illustrator, InDesign and After Effects.
+I found my first side job during the holidays at the age of 14, which can be a proof of my diligence.
+I decided to carrer change, because until now I have not felt professionally fulfilled and I had no prospects for development.
 
 __________________________________________
  
